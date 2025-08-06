@@ -4,6 +4,7 @@ A Magic Mirror Module to display a simple HTML table.
 ## How to use
 1. Clone this repo into your Magic Mirrors modules directory with the following command:
 ```bash
+cd ~/MagicMirror/modules
 git clone https://github.com/Unclearogre/MMM-CustomTable.git
 ```
 2. Update your Magic Mirror Config to setup a Module Instance.  See the configuration options and examples below.
