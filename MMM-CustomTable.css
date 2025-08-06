@@ -1,0 +1,9 @@
+.custom-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.custom-table td {
+    border:  1px solid #ddd; /* Default border, can be overridden by config */
+    padding: 0px;            /* Default padding, can be overridden by config */
+}
